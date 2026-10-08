@@ -97,13 +97,9 @@ YouTube channel, **CreativeAllDay**.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiristineryana&bg_color=1a1025&color=ff8cc6&line=ff5fa2&point=ffffff&area=true&area_color=ff5fa2&hide_border=true" width="100%" />
 
-<!--
-OPTIONAL: contribution snake. First add the workflow file (snake.yml) to
-.github/workflows/ in this repo, run it once from the Actions tab, then
-remove this comment wrapper.
 
 <img src="https://raw.githubusercontent.com/kiristineryana/kiristineryana/output/github-snake-dark.svg" width="100%" />
--->
+
 
 </div>
 
