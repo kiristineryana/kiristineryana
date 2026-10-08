@@ -44,7 +44,7 @@ YouTube channel, **CreativeAllDay**.
  |    ▽    |    ─────────────
   \  ‿‿‿  /     role   : CS student
    '-.__.-'     mode   : build + create
-   /|    |\     fuel   : chai & clay
+   /|    |\     fuel   : code & clay
   (_|____|_)    status : curious ✨
 ```
 
