@@ -82,6 +82,9 @@ YouTube channel, **CreativeAllDay**.
 <a href="https://github.com/kiristineryana/TravelNova"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kiristineryana&repo=TravelNova&theme=dark&bg_color=1a1025&title_color=ff8cc6&icon_color=ffb38a&text_color=e9ddf5&border_color=4a2a5e&show_owner=false" /></a>
 <a href="https://github.com/kiristineryana/birthday-adventure-game"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kiristineryana&repo=birthday-adventure-game&theme=dark&bg_color=1a1025&title_color=ff8cc6&icon_color=ffb38a&text_color=e9ddf5&border_color=4a2a5e&show_owner=false" /></a>
 
+<a href="https://github.com/kiristineryana/uni-agent"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kiristineryana&repo=uni-agent&theme=dark&bg_color=1a1025&title_color=ff8cc6&icon_color=ffb38a&text_color=e9ddf5&border_color=4a2a5e&show_owner=false" /></a>
+<a href="https://github.com/kiristineryana/workshop-requisition-approval"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=kiristineryana&repo=workshop-requisition-approval&theme=dark&bg_color=1a1025&title_color=ff8cc6&icon_color=ffb38a&text_color=e9ddf5&border_color=4a2a5e&show_owner=false" /></a>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1025,25:ff5fa2,60:ffb38a,100:b69cff&height=3&section=header" width="100%" />
